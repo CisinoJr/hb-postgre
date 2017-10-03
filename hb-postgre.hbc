@@ -1,0 +1,8 @@
+incpaths=c:\hmg.3.4.3\include
+libpaths=C:\HMG.3.4.3\lib
+libs=hmgpgsql libpq
+gt=
+mt=no
+instpaths=
+inc=yes
+head=native
