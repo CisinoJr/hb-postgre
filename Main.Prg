@@ -26,11 +26,10 @@ Function Main()
       msgStop("Não foi possível conectar ao servidor de banco de dados, entre em contato com seu suporte!", "DATABASE SERVER ERRO")
     else
         createTable()
-        searchProduct()
    endif
 
    Load Window Main
    Main.Center
    Main.Activate
-  
+   
 Return

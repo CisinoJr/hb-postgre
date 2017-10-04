@@ -1,0 +1,12 @@
+
+*.exe
+*.dll
+
+README.md
+
+.hbmk/*
+
+*.htm
+*.html
+
+*.log
